@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We use speech recognition because - reasons. </string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Reasons</string>
 </dict>
 </plist>
